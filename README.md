@@ -1,6 +1,7 @@
-# AISolutions modified 
+## AISolutions modified version
+![AISolutions logo](/static/AIS.png?raw=true "AISolutions logo") 
 
-# Yolov5 object detection model deployment using flask
+## Yolov5 object detection model deployment using flask
 https://github.com/ultralytics/yolov5 
 
 https://pytorch.org/hub/ultralytics_yolov5/
