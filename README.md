@@ -2,7 +2,9 @@
 
 # Yolov5 object detection model deployment using flask
 https://github.com/ultralytics/yolov5 
+
 https://pytorch.org/hub/ultralytics_yolov5/
+
 https://flask.palletsprojects.com/en/1.1.x/
 
 ## Web app
